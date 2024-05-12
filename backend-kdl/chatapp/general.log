@@ -1,0 +1,335 @@
+[2024-04-26 10:52:50,675] INFO - [ID: 8003017eba6f7b73] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-04-26 10:53:01,241] INFO - [ID: 632232350f68752f] - app.views - API getMessage
+[2024-04-26 10:53:01,257] INFO - [ID: 75d957f93472acc7] - app.views - API getRoomInfo
+[2024-04-26 10:53:06,634] INFO - [ID: 99c8e63cfe0c298c] - app.views - API getRoomInfo
+[2024-04-26 10:53:07,367] INFO - [ID: 6175bb788d624a6f] - app.views - API getRoomInfo
+[2024-04-26 10:58:26,739] INFO - [ID: 5ca51111a423c41f] - django.utils.autoreload - D:\chatapp\backend\chatapp\app\views.py changed, reloading.
+[2024-04-26 10:58:27,299] INFO - [ID: ba38c162de63579d] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-04-26 10:58:53,815] INFO - [ID: 26d10879de5f17b2] - django.utils.autoreload - D:\chatapp\backend\chatapp\app\views.py changed, reloading.
+[2024-04-26 10:58:54,301] INFO - [ID: 7d837539d63fa84c] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-04-26 11:02:20,832] INFO - [ID: df4fce5ff00371ed] - django.utils.autoreload - D:\chatapp\backend\chatapp\app\views.py changed, reloading.
+[2024-04-26 11:02:21,344] INFO - [ID: cf9d3bc374430e90] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-04-26 11:02:49,284] INFO - [ID: 961424368b66b38c] - app.views - API getMessage
+[2024-04-26 11:02:49,294] INFO - [ID: 6f6bad477161707b] - app.views - API getRoomInfo
+[2024-04-26 11:02:50,232] INFO - [ID: 160f9e4ec1fed413] - app.views - API getMessage
+[2024-04-26 11:02:50,233] INFO - [ID: 785a9aed438bfa83] - app.views - API getRoomInfo
+[2024-04-26 11:02:52,082] INFO - [ID: 22689896f8051231] - app.views - API getMessage
+[2024-04-26 11:02:52,091] INFO - [ID: 89970a2e1a20279b] - app.views - API getRoomInfo
+[2024-04-26 11:03:05,310] INFO - [ID: 5f36dd5d0bc17cc9] - app.views - API getMessage
+[2024-04-26 11:03:05,321] INFO - [ID: 135a185e21b24f04] - app.views - API getRoomInfo
+[2024-04-26 11:03:09,503] INFO - [ID: 00d558255ef757f3] - app.views - API getMessage
+[2024-04-26 11:03:09,513] INFO - [ID: edc5585f56ef2b31] - app.views - API getRoomInfo
+[2024-04-26 11:03:13,749] INFO - [ID: af7394a088f78380] - app.views - API getMessage
+[2024-04-26 11:03:13,760] INFO - [ID: da04052f22c27114] - app.views - API getRoomInfo
+[2024-04-26 11:03:15,521] INFO - [ID: 729c1e794cf42d1d] - app.views - API getRoomInfo
+[2024-04-26 11:03:15,522] INFO - [ID: 4a1f75091c89cd6e] - app.views - API getMessage
+[2024-04-26 11:03:16,955] INFO - [ID: 436c42d9d2e28342] - app.views - API getMessage
+[2024-04-26 11:03:16,955] INFO - [ID: 78decfd7fe61379c] - app.views - API getRoomInfo
+[2024-04-26 11:03:25,535] INFO - [ID: 04b87feaa881d02d] - app.views - Login Successfully
+[2024-04-26 11:03:26,855] INFO - [ID: 75875d10e6b3568e] - app.views - API getMessage
+[2024-04-26 11:03:26,866] INFO - [ID: 14b366ee2e0a39ad] - app.views - API getRoomInfo
+[2024-04-26 11:03:49,555] INFO - [ID: 784df35a9213726d] - app.views - API getMessage
+[2024-04-26 11:03:49,556] INFO - [ID: 86bfa310f65a035b] - app.views - API getRoomInfo
+[2024-04-26 11:03:51,773] INFO - [ID: df3314b586e23c03] - app.views - API getRoomInfo
+[2024-04-26 11:03:51,774] INFO - [ID: 176642ac76f263c4] - app.views - API getMessage
+[2024-04-26 11:03:59,978] INFO - [ID: 3bdc3cf9401b4fbe] - app.views - API getRoomInfo
+[2024-04-26 11:04:00,003] INFO - [ID: 71798099fc7d280a] - app.views - API getMessage
+[2024-04-26 11:04:06,189] INFO - [ID: 11e287d5625a1503] - app.views - API getRoomInfo
+[2024-04-26 11:04:06,218] INFO - [ID: 19fd6ffc1e7453d8] - app.views - API getMessage
+[2024-04-26 11:04:08,501] INFO - [ID: e041f7f73257a79e] - app.views - API getRoomInfo
+[2024-04-26 11:04:12,805] INFO - [ID: e939410e72894d6a] - app.views - API getRoomInfo
+[2024-04-26 11:04:12,809] INFO - [ID: c791b47be7e163b6] - app.views - API getMessage
+[2024-04-26 11:04:14,308] INFO - [ID: 11bd8d0895a14715] - app.views - API getRoomInfo
+[2024-04-26 11:04:14,310] INFO - [ID: 6962fd7089020987] - app.views - API getMessage
+[2024-04-26 11:04:23,981] INFO - [ID: e8c81e27b08e8faa] - app.views - API getRoomInfo
+[2024-04-26 11:06:02,420] INFO - [ID: e80515dead2b559f] - app.views - API getMessage
+[2024-04-26 11:06:02,420] INFO - [ID: 818f415813e1a87f] - app.views - API getRoomInfo
+[2024-04-26 11:07:40,790] INFO - [ID: a0d30ceae6d780dd] - app.views - Login Successfully
+[2024-04-26 11:08:26,707] INFO - [ID: 7104c9ec3671aad0] - app.views - Login Successfully
+[2024-04-26 11:08:51,690] INFO - [ID: 3b1a51af8c3e8e9e] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-04-26 11:09:00,325] WARNING - [ID: 623abc74604e0315] - django.request - Unauthorized: /api/login_user/
+[2024-04-26 11:09:14,021] INFO - [ID: 2e9537cb778384ff] - app.views - Login Successfully
+[2024-04-26 11:10:16,117] INFO - [ID: 091e41a7d39bd467] - app.views - Login Successfully
+[2024-04-26 11:10:58,134] INFO - [ID: f8ec68a088ab07c6] - app.views - Login Successfully
+[2024-04-26 11:11:06,081] INFO - [ID: 1d235bd6a8dd09dd] - app.views - Login Successfully
+[2024-04-26 11:11:23,937] INFO - [ID: 3b3bf1a8dc629d7c] - django.utils.autoreload - D:\chatapp\backend\chatapp\chatapp\settings.py changed, reloading.
+[2024-04-26 11:11:24,496] INFO - [ID: c4deb84891c8f301] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-04-26 11:11:27,435] INFO - [ID: 791fd68c31071232] - app.views - API getMessage
+[2024-04-26 11:11:27,445] INFO - [ID: fb3bc9ea0ce0cf81] - app.views - API getRoomInfo
+[2024-04-26 11:11:27,910] INFO - [ID: a6b4aa1d80782b0a] - app.views - API getMessage
+[2024-04-26 11:11:27,913] INFO - [ID: 43b549848e07c189] - app.views - API getRoomInfo
+[2024-04-26 11:11:28,471] INFO - [ID: 89aa9fc751bf2af2] - app.views - API getMessage
+[2024-04-26 11:11:28,475] INFO - [ID: 5cdbeeedda527f14] - app.views - API getRoomInfo
+[2024-04-26 11:11:37,123] INFO - [ID: 227c1084114ff803] - app.views - Login Successfully
+[2024-04-26 11:11:38,234] INFO - [ID: 2043613b3598b25d] - app.views - API getRoomInfo
+[2024-04-26 11:11:38,234] INFO - [ID: 5e77ad6faf6f62c6] - app.views - API getMessage
+[2024-04-26 11:11:38,798] INFO - [ID: 7af241df7644a503] - app.views - API getRoomInfo
+[2024-04-26 11:11:38,802] INFO - [ID: cd84227dde80dd78] - app.views - API getMessage
+[2024-04-26 11:11:39,215] INFO - [ID: a6754c0ca1613512] - app.views - API getRoomInfo
+[2024-04-26 11:11:39,215] INFO - [ID: 723df565cdc2761e] - app.views - API getMessage
+[2024-04-26 11:11:40,931] INFO - [ID: 93b736ce4ae90136] - app.views - API getRoomInfo
+[2024-04-26 11:11:40,932] INFO - [ID: dd0c5fdf2e378b5d] - app.views - API getMessage
+[2024-04-26 11:11:44,241] INFO - [ID: b2c3fdb657fa45bf] - app.views - API getMessage
+[2024-04-26 11:11:44,252] INFO - [ID: 89d843d33fa3da4f] - app.views - API getRoomInfo
+[2024-04-26 11:13:28,744] INFO - [ID: 148049e4f1f7ea1c] - app.views - API userInfo
+[2024-04-26 11:13:54,467] INFO - [ID: e9113500a96f7f5d] - app.views - API userUpdate
+[2024-04-26 11:13:54,496] INFO - [ID: 547cb73774d5f1aa] - app.views - API userInfo
+[2024-04-26 11:13:57,986] INFO - [ID: b4b9a601d663b017] - app.views - API userInfo
+[2024-04-26 11:14:08,522] INFO - [ID: a99b828ec280aada] - app.views - API userUpdate
+[2024-04-26 11:14:08,551] INFO - [ID: 90f98bc3697acc99] - app.views - API userInfo
+[2024-04-26 11:14:11,709] INFO - [ID: 2fe525c7fdd8ef27] - app.views - API userInfo
+[2024-04-26 11:17:40,743] INFO - [ID: 221f42e17c886756] - django.utils.autoreload - D:\chatapp\backend\chatapp\app\views.py changed, reloading.
+[2024-04-26 11:17:41,348] INFO - [ID: 6cee945eed4884c5] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-04-26 11:17:47,275] INFO - [ID: 59363d63a39db1a3] - app.views - API userInfo
+[2024-04-26 11:17:49,014] INFO - [ID: 6f491bd8d012bb25] - app.views - None
+[2024-04-26 11:17:49,014] INFO - [ID: a84fc43a19c274c2] - app.views - API userUpdate
+[2024-04-26 11:17:49,055] INFO - [ID: 2d06315c10e73438] - app.views - API userInfo
+[2024-04-26 11:19:49,469] INFO - [ID: c1dcfe0c07f5e200] - app.views - API userInfo
+[2024-04-26 11:19:51,703] INFO - [ID: b4537b8a58f57a63] - app.views - None
+[2024-04-26 11:19:51,706] INFO - [ID: 9f6582fd1908b5eb] - app.views - API userUpdate
+[2024-04-26 11:19:51,741] INFO - [ID: 66cfc1fc2d5f890f] - app.views - API userInfo
+[2024-04-26 11:20:25,402] INFO - [ID: 27432f0eccab3cf5] - app.views - API userInfo
+[2024-04-26 11:20:36,050] INFO - [ID: 43920c583475c47d] - app.views - Login Successfully
+[2024-04-26 11:20:37,423] INFO - [ID: e0370dd128844a3b] - app.views - API userInfo
+[2024-04-26 11:20:48,292] INFO - [ID: 461ff84b8d2db24e] - app.views - None
+[2024-04-26 11:20:48,296] INFO - [ID: 9f3e63292980a613] - app.views - API userUpdate
+[2024-04-26 11:20:48,317] INFO - [ID: 58b4772b60c67912] - app.views - API userInfo
+[2024-04-26 11:20:51,597] INFO - [ID: 4bbedae3c60c4be6] - app.views - API userInfo
+[2024-04-26 11:32:31,121] INFO - [ID: 6b33c307f461b1d0] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-04-26 11:32:40,774] INFO - [ID: f850efe441ca3e1a] - app.views - Login Successfully
+[2024-04-26 11:33:40,391] INFO - [ID: 139b6aa32c7594bc] - django.utils.autoreload - D:\chatapp\backend\chatapp\app\views.py changed, reloading.
+[2024-04-26 11:33:40,948] INFO - [ID: 858b4e2efe81e33e] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-04-26 11:34:04,047] INFO - [ID: 433fe15a4bda7888] - app.views - Login Successfully
+[2024-04-26 11:34:27,041] INFO - [ID: be570f37bad7df16] - app.views - API getMessage
+[2024-04-26 11:34:27,044] INFO - [ID: e5c6133691520cbb] - app.views - API getRoomInfo
+[2024-04-26 11:34:27,813] INFO - [ID: 25650860aa14f67d] - app.views - API getMessage
+[2024-04-26 11:34:27,817] INFO - [ID: 9a8114db30180395] - app.views - API getRoomInfo
+[2024-04-26 11:34:28,378] INFO - [ID: f67bf0366105551d] - app.views - API getMessage
+[2024-04-26 11:34:28,380] INFO - [ID: 2a065ab7988f0110] - app.views - API getRoomInfo
+[2024-04-26 11:34:28,802] INFO - [ID: 8aa098e9b0f0ef4f] - app.views - API getMessage
+[2024-04-26 11:34:28,803] INFO - [ID: 50d8f438687c39bc] - app.views - API getRoomInfo
+[2024-04-26 11:34:29,190] INFO - [ID: c75535f93f2dfe82] - app.views - API getRoomInfo
+[2024-04-26 11:34:29,195] INFO - [ID: 3fa0fdd2c189bb5f] - app.views - API getMessage
+[2024-04-26 11:34:29,575] INFO - [ID: 422c035f0aa3301d] - app.views - API getRoomInfo
+[2024-04-26 11:34:29,575] INFO - [ID: 81522d4f7a627233] - app.views - API getMessage
+[2024-04-26 11:34:29,966] INFO - [ID: d14dc93d803e19e3] - app.views - API getMessage
+[2024-04-26 11:34:29,967] INFO - [ID: 8161fa42809d729c] - app.views - API getRoomInfo
+[2024-04-26 11:34:30,312] INFO - [ID: 96b46820848c15bc] - app.views - API getRoomInfo
+[2024-04-26 11:34:30,313] INFO - [ID: 4114a3b0b03e0ca6] - app.views - API getMessage
+[2024-04-26 11:34:30,662] INFO - [ID: e6e27d5e73f196b9] - app.views - API getRoomInfo
+[2024-04-26 11:34:30,664] INFO - [ID: ec6f08a9659cb110] - app.views - API getMessage
+[2024-04-26 11:34:31,001] INFO - [ID: 66aabad2d5644447] - app.views - API getMessage
+[2024-04-26 11:34:31,003] INFO - [ID: 023e7f62079493d2] - app.views - API getRoomInfo
+[2024-04-26 11:34:31,335] INFO - [ID: ac882f21f09fb792] - app.views - API getMessage
+[2024-04-26 11:34:31,336] INFO - [ID: 9aa0858f978186bb] - app.views - API getRoomInfo
+[2024-04-26 11:34:31,666] INFO - [ID: ccbfe6e57202a0a3] - app.views - API getRoomInfo
+[2024-04-26 11:34:31,668] INFO - [ID: b41221d8b28a8903] - app.views - API getMessage
+[2024-04-26 11:34:40,421] INFO - [ID: 208aadedeb34540e] - django.utils.autoreload - D:\chatapp\backend\chatapp\app\views.py changed, reloading.
+[2024-04-26 11:34:40,951] INFO - [ID: ec5d07c37ddeddf6] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-04-26 11:34:42,533] INFO - [ID: a478b2d9eedf9b47] - django.utils.autoreload - D:\chatapp\backend\chatapp\app\views.py changed, reloading.
+[2024-04-26 11:34:43,084] INFO - [ID: 9e0ce11b6a1b0154] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-04-26 11:34:44,786] INFO - [ID: 471a15ad64c2fb1e] - app.views - API userInfo
+[2024-04-26 11:34:47,229] INFO - [ID: f59e4535b2401ffd] - app.views - API getMessage
+[2024-04-26 11:34:47,234] INFO - [ID: 964e2fb60693fa7f] - app.views - API getRoomInfo
+[2024-04-26 11:34:47,797] INFO - [ID: 94408497bb4140f9] - app.views - API getRoomInfo
+[2024-04-26 11:34:47,799] INFO - [ID: 87e9196581461357] - app.views - API getMessage
+[2024-04-26 11:34:48,926] INFO - [ID: d019627fffa0235a] - app.views - API userInfo
+[2024-04-26 11:35:01,755] INFO - [ID: f8e4bbf85bce4d95] - django.utils.autoreload - D:\chatapp\backend\chatapp\app\views.py changed, reloading.
+[2024-04-26 11:35:02,353] INFO - [ID: 25e30fa8d07feb0d] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-04-26 11:35:03,617] INFO - [ID: e400af64cf4334b5] - app.views - API getMessage
+[2024-04-26 11:35:03,626] INFO - [ID: 9b62b93fa3af4f9f] - app.views - API getRoomInfo
+[2024-04-26 11:35:04,589] INFO - [ID: 26414571a2574978] - app.views - API getRoomInfo
+[2024-04-26 11:35:04,902] INFO - [ID: c25108d47a42452f] - app.views - API getRoomInfo
+[2024-04-26 11:35:05,628] INFO - [ID: 595cc3f019c3bac0] - app.views - API getRoomInfo
+[2024-04-26 11:35:05,636] INFO - [ID: 314e70b37a3131cb] - app.views - API getMessage
+[2024-04-26 11:35:06,068] INFO - [ID: f99c07b3b3206244] - app.views - API getMessage
+[2024-04-26 11:35:06,069] INFO - [ID: e5cd7370cd3803aa] - app.views - API getRoomInfo
+[2024-04-26 11:35:06,661] INFO - [ID: a4f7a605a68e5766] - app.views - API getRoomInfo
+[2024-04-26 11:35:07,147] INFO - [ID: 7400a2aee5bb8ab0] - app.views - API getRoomInfo
+[2024-04-26 11:35:27,840] INFO - [ID: 379cc8d5be61dd83] - django.utils.autoreload - D:\chatapp\backend\chatapp\app\views.py changed, reloading.
+[2024-04-26 11:35:28,366] INFO - [ID: 11768fc4f127f3b7] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-04-26 11:35:30,986] INFO - [ID: 99c329db7906f49a] - app.views - API getMessage
+[2024-04-26 11:35:30,992] INFO - [ID: 89854a088b93b49c] - app.views - API getRoomInfo
+[2024-04-26 11:35:31,226] INFO - [ID: e9925560a7f0ed9c] - app.views - API getMessage
+[2024-04-26 11:35:31,227] INFO - [ID: 29e5a8fd60f14728] - app.views - API getRoomInfo
+[2024-04-26 11:35:32,252] INFO - [ID: 4937fd6beabe7b81] - app.views - API getRoomInfo
+[2024-04-26 11:35:32,909] INFO - [ID: 2dc862ca57db6768] - app.views - API getRoomInfo
+[2024-04-26 11:35:35,358] INFO - [ID: 03dbfb78d36add5f] - app.views - API searchUser
+[2024-04-26 11:40:46,760] INFO - [ID: 53217a64cb378042] - django.utils.autoreload - D:\chatapp\backend\chatapp\app\views.py changed, reloading.
+[2024-04-26 11:40:47,263] INFO - [ID: bab2e472c1fd8a77] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-05-02 08:30:22,495] INFO - [ID: 38f47632d94d166b] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-05-02 08:30:47,849] WARNING - [ID: a272daa4a5ef50c9] - django.request - Unauthorized: /api/list_chat/
+[2024-05-02 08:31:03,736] INFO - [ID: 7bcf2d90daacb0b0] - app.views - Login Successfully
+[2024-05-02 08:31:06,155] INFO - [ID: 89ec4ec938ab32c7] - app.views - API getMessage
+[2024-05-02 08:31:06,168] INFO - [ID: 31d1a8143b41727d] - app.views - API getRoomInfo
+[2024-05-02 08:31:11,833] INFO - [ID: e79fe6708b0400ae] - app.views - API getMessage
+[2024-05-02 08:31:11,840] INFO - [ID: b392db4c59cd7c92] - app.views - API getRoomInfo
+[2024-05-02 08:31:12,363] INFO - [ID: 37c11825cf0bc2e7] - app.views - API getMessage
+[2024-05-02 08:31:12,368] INFO - [ID: e6413408caf949da] - app.views - API getRoomInfo
+[2024-05-02 08:31:13,919] INFO - [ID: bb04f95fedb4aa06] - app.views - API getMessage
+[2024-05-02 08:31:13,926] INFO - [ID: 981d2c7735955fdc] - app.views - API getRoomInfo
+[2024-05-02 08:31:14,441] INFO - [ID: 4f8c24e1df761c68] - app.views - API getMessage
+[2024-05-02 08:31:14,445] INFO - [ID: 2d858c8df60ed096] - app.views - API getRoomInfo
+[2024-05-02 08:31:15,089] INFO - [ID: d3515c5f2e321f23] - app.views - API getRoomInfo
+[2024-05-02 08:31:15,090] INFO - [ID: 818bc2bd13ff5cb3] - app.views - API getMessage
+[2024-05-02 08:31:17,041] INFO - [ID: a9780c8d3c586b72] - app.views - API userInfo
+[2024-05-02 08:31:21,789] WARNING - [ID: d74056d9864ba1e1] - django.request - Bad Request: /api/get_room_detail/null
+[2024-05-02 08:31:23,724] INFO - [ID: 3c0bb9ac305b89cd] - app.views - API getRoomInfo
+[2024-05-02 08:31:23,725] INFO - [ID: 0ca02259df770b2b] - app.views - API getMessage
+[2024-05-02 08:31:25,198] INFO - [ID: 3d8ecbe1405eb88b] - app.views - API getRoomInfo
+[2024-05-02 08:31:25,791] INFO - [ID: cb08a7cfcdfd08af] - app.views - API getRoomInfo
+[2024-05-02 08:31:26,398] INFO - [ID: 0c54fa7394c54a18] - app.views - API getRoomInfo
+[2024-05-02 08:31:27,173] INFO - [ID: 1ea63baaace2b5fc] - app.views - API getMessage
+[2024-05-02 08:31:27,180] INFO - [ID: f89927bcb111454d] - app.views - API getRoomInfo
+[2024-05-02 08:31:28,029] INFO - [ID: 09b53983170f6d78] - app.views - API getMessage
+[2024-05-02 08:31:28,036] INFO - [ID: dbfe6f3380b87bf9] - app.views - API getRoomInfo
+[2024-05-02 08:31:30,276] INFO - [ID: 469e1932ed80b7b0] - app.views - API getRoomInfo
+[2024-05-02 08:31:31,603] INFO - [ID: 9898e2a046719aeb] - app.views - API getRoomInfo
+[2024-05-03 11:53:22,893] INFO - [ID: 4ad9b3170196ef34] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-05-03 11:53:42,978] WARNING - [ID: 10d31f3c93d450aa] - django.request - Unauthorized: /api/list_chat/
+[2024-05-03 11:53:54,691] INFO - [ID: 9e65546920ef739d] - app.views - Login Successfully
+[2024-05-03 11:54:33,637] INFO - [ID: 503019bf0b01162d] - app.views - Login Successfully
+[2024-05-03 11:54:37,186] INFO - [ID: 356c31df1d40a128] - app.views - API getMessage
+[2024-05-03 11:54:37,194] INFO - [ID: a79babb746de4c3b] - app.views - API getRoomInfo
+[2024-05-03 11:54:44,060] INFO - [ID: fcb911adab9a756d] - app.views - API getRoomInfo
+[2024-05-03 11:54:44,062] INFO - [ID: 3a55aaee7d3f51d8] - app.views - API getMessage
+[2024-05-03 11:54:46,931] INFO - [ID: dc6e0443a095a91c] - app.views - API getMessage
+[2024-05-03 11:54:46,938] INFO - [ID: d7badf25734e4e5d] - app.views - API getRoomInfo
+[2024-05-03 11:54:49,688] INFO - [ID: 1c9571f9923120be] - app.views - API getMessage
+[2024-05-03 11:54:49,689] INFO - [ID: e88b68cda92d5464] - app.views - API getRoomInfo
+[2024-05-03 11:54:56,136] INFO - [ID: e88c50c687e27c58] - app.views - API getRoomInfo
+[2024-05-03 11:54:56,160] INFO - [ID: cb733de4e37736c0] - app.views - API getMessage
+[2024-05-03 11:54:58,763] INFO - [ID: d43e6c37f50c72cf] - app.views - API searchUser
+[2024-05-03 11:55:04,792] INFO - [ID: 89428c46842ef39d] - app.views - API block
+[2024-05-03 11:55:04,825] INFO - [ID: 68ec6cec0a8f7927] - app.views - API searchUser
+[2024-05-03 11:55:28,699] INFO - [ID: 380e10a2070934a2] - app.views - API getMessage
+[2024-05-03 11:55:28,707] INFO - [ID: 1a9becb1918c5674] - app.views - API getRoomInfo
+[2024-05-03 11:55:39,889] INFO - [ID: b81cad649e44221d] - app.views - Login Successfully
+[2024-05-03 11:55:41,222] INFO - [ID: ed2923896b652adc] - app.views - API getRoomInfo
+[2024-05-03 11:55:41,223] INFO - [ID: ce01023358ebf9cc] - app.views - API getMessage
+[2024-05-03 11:55:53,106] INFO - [ID: 86c7f7bd5579be71] - app.views - API getRoomInfo
+[2024-05-03 11:55:53,110] INFO - [ID: 7662980ba97f440b] - app.views - API getMessage
+[2024-05-03 11:55:55,547] INFO - [ID: 9e72410ea8ede3df] - app.views - API searchUser
+[2024-05-03 15:21:19,382] INFO - [ID: 6d83fdf1d24eddec] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-05-03 16:12:11,231] INFO - [ID: 5e71fed752137cd7] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-05-03 16:12:36,790] INFO - [ID: e239322c9de8b1ef] - app.views - Login Successfully
+[2024-05-03 16:12:42,532] INFO - [ID: 199f6123fa7c01e7] - app.views - Login Successfully
+[2024-05-03 16:12:53,136] INFO - [ID: a561eb8612ec6ffb] - app.views - Login Successfully
+[2024-05-03 16:12:55,691] WARNING - [ID: 800cd0b6560dd09a] - django.request - Unauthorized: /api/login_user/
+[2024-05-03 16:12:56,158] WARNING - [ID: fd9c2e980ba3361c] - django.request - Unauthorized: /api/login_user/
+[2024-05-03 16:12:56,733] WARNING - [ID: ff23f0a8680410e7] - django.request - Unauthorized: /api/login_user/
+[2024-05-03 16:12:57,454] WARNING - [ID: 742b332b333e69e8] - django.request - Unauthorized: /api/login_user/
+[2024-05-03 16:13:03,439] INFO - [ID: bc260e0ada51eeac] - app.views - Login Successfully
+[2024-05-03 16:18:28,421] INFO - [ID: 45b9b2ad228928c2] - django.utils.autoreload - D:\chatapp\backend\chatapp\chatapp\settings.py changed, reloading.
+[2024-05-03 16:18:29,140] INFO - [ID: 41d93ba1c0145d89] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-05-03 16:23:41,355] INFO - [ID: ff2cd37dfdd48a15] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-05-03 16:24:27,267] INFO - [ID: f22581e90161c571] - app.views - Login Successfully
+[2024-05-03 16:24:59,463] INFO - [ID: 7512c826f411461b] - app.views - Register Successfully
+[2024-05-03 16:25:14,201] INFO - [ID: 690a61af20d2ce80] - app.views - Login Successfully
+[2024-05-03 16:26:14,652] INFO - [ID: 9e6548220342d48f] - django.utils.autoreload - D:\chatapp\backend\chatapp\chatapp\settings.py changed, reloading.
+[2024-05-03 16:26:15,350] INFO - [ID: db00d9a450e62882] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-05-05 22:42:50,838] INFO - [ID: fb4812d943e6a76a] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-05-05 22:43:18,340] INFO - [ID: 2ee0cf18b4f81e02] - app.views - Login Successfully
+[2024-05-05 22:43:21,048] INFO - [ID: 2dff22909b21f71f] - app.views - Login Successfully
+[2024-05-05 22:44:07,109] INFO - [ID: 61c015c0ec7ff46f] - app.views - API getMessage
+[2024-05-05 22:44:07,119] INFO - [ID: 2e1ccee4fc7d8fe3] - app.views - API getRoomInfo
+[2024-05-05 22:44:08,196] INFO - [ID: d6dcd15957fd359d] - app.views - API getMessage
+[2024-05-05 22:44:08,202] INFO - [ID: 03c13a7cec46ae7d] - app.views - API getRoomInfo
+[2024-05-05 22:44:08,758] INFO - [ID: ed66b46f66f81978] - app.views - API getMessage
+[2024-05-05 22:44:08,760] INFO - [ID: 2664b72b56dbb86a] - app.views - API getRoomInfo
+[2024-05-05 22:44:09,481] INFO - [ID: 5f8cd8c73085a4aa] - app.views - API getMessage
+[2024-05-05 22:44:09,486] INFO - [ID: a6e3c5ffb141a790] - app.views - API getRoomInfo
+[2024-05-05 22:44:09,806] INFO - [ID: e637f6a866486f33] - app.views - API getMessage
+[2024-05-05 22:44:09,807] INFO - [ID: ee38381f29680356] - app.views - API getRoomInfo
+[2024-05-05 22:44:24,379] INFO - [ID: 3fec3a02539bbbdb] - app.views - Login Successfully
+[2024-05-05 22:47:00,749] INFO - [ID: 8394e49e29e1d86b] - app.views - Login Successfully
+[2024-05-05 22:48:22,013] INFO - [ID: 3a7f42da16a0b437] - app.views - Login Successfully
+[2024-05-05 22:48:56,417] INFO - [ID: 13bf531036a1371d] - app.views - API getMessage
+[2024-05-05 22:48:56,420] INFO - [ID: afbdd33990918477] - app.views - API getRoomInfo
+[2024-05-05 22:48:58,481] INFO - [ID: 95af969ad4b0ee8c] - app.views - API getMessage
+[2024-05-05 22:48:58,483] INFO - [ID: b26e944be8c06050] - app.views - API getRoomInfo
+[2024-05-05 22:49:04,376] INFO - [ID: 636d30ac2a053670] - app.views - Login Successfully
+[2024-05-05 22:49:05,496] INFO - [ID: da15413b8e7c266c] - app.views - API getRoomInfo
+[2024-05-05 22:49:05,511] INFO - [ID: 3574f09a8ad1e5cf] - app.views - API getMessage
+[2024-05-05 22:49:08,222] INFO - [ID: 42014c2bcc1729ed] - app.views - API getMessage
+[2024-05-05 22:49:08,231] INFO - [ID: 9ae4488ff20121fb] - app.views - API getRoomInfo
+[2024-05-05 22:49:15,026] INFO - [ID: ab298ae1c58b0130] - app.views - API getMessage
+[2024-05-05 22:49:15,029] INFO - [ID: ccc42950616cd7b3] - app.views - API getRoomInfo
+[2024-05-05 22:49:15,613] INFO - [ID: 2730f2c027078a06] - app.views - API getMessage
+[2024-05-05 22:49:15,619] INFO - [ID: 2e8620f4fdd32086] - app.views - API getRoomInfo
+[2024-05-05 22:49:16,080] INFO - [ID: ca4925040d0df48f] - app.views - API getMessage
+[2024-05-05 22:49:16,081] INFO - [ID: 521e5b7e78e9ae1d] - app.views - API getRoomInfo
+[2024-05-05 22:49:23,117] INFO - [ID: 7e6d48329952a096] - app.views - API getRoomInfo
+[2024-05-05 22:49:23,124] INFO - [ID: f8e61b141596cfd3] - app.views - API getMessage
+[2024-05-05 22:49:23,392] INFO - [ID: 48bd93e6e98e3d9a] - app.views - API getRoomInfo
+[2024-05-05 22:49:23,393] INFO - [ID: a1028620d926dfd5] - app.views - API getMessage
+[2024-05-05 22:49:23,810] INFO - [ID: 90f7167faedd02ea] - app.views - API getMessage
+[2024-05-05 22:49:23,813] INFO - [ID: 8a942458c728eb1d] - app.views - API getRoomInfo
+[2024-05-05 22:49:27,395] INFO - [ID: dda3738f0dd8f761] - app.views - API getRoomInfo
+[2024-05-05 22:49:27,400] INFO - [ID: e7dcd025ee2d028b] - app.views - API getMessage
+[2024-05-05 22:49:41,595] INFO - [ID: 64aebbe1f9fe96c7] - app.views - API getMessage
+[2024-05-05 22:49:46,955] INFO - [ID: 9292a0f39ef9f6ba] - app.views - API getRoomInfo
+[2024-05-05 22:49:46,971] INFO - [ID: 994de61a1c19d89e] - app.views - API getMessage
+[2024-05-05 22:50:00,276] INFO - [ID: e48e5d7a7df84f45] - app.views - API getMessage
+[2024-05-05 22:50:07,077] INFO - [ID: dded9035bca4fd44] - app.views - API getRoomInfo
+[2024-05-05 22:50:07,097] INFO - [ID: 8c7fea1e29e3c855] - app.views - API getMessage
+[2024-05-05 22:50:07,605] INFO - [ID: 4b15d9c499de634b] - app.views - API getRoomInfo
+[2024-05-05 22:50:07,606] INFO - [ID: a518b206d678e8bb] - app.views - API getMessage
+[2024-05-05 22:50:24,938] INFO - [ID: 4977b2f0b4892a07] - app.views - API getMessage
+[2024-05-05 22:50:26,831] INFO - [ID: 9c6e642a1aa77ee0] - app.views - API getRoomInfo
+[2024-05-05 22:50:26,835] INFO - [ID: b0392bd766e213dc] - app.views - API getMessage
+[2024-05-05 22:50:27,197] INFO - [ID: cb9f0d70249299f4] - app.views - API getMessage
+[2024-05-05 22:50:27,198] INFO - [ID: 08eea87df77700e5] - app.views - API getRoomInfo
+[2024-05-05 22:50:29,888] INFO - [ID: 41f4f3a6ad90e1c0] - app.views - API getMessage
+[2024-05-05 22:50:29,898] INFO - [ID: 967c3d41e539f17f] - app.views - API getRoomInfo
+[2024-05-05 22:50:31,494] INFO - [ID: 3296fc92dc8b7a07] - app.views - API userInfo
+[2024-05-05 22:50:36,841] INFO - [ID: feb43311d4ae6335] - app.views - API getRoomInfo
+[2024-05-05 22:50:36,859] INFO - [ID: e6eced76b9ca7116] - app.views - API getMessage
+[2024-05-05 22:50:37,662] INFO - [ID: 0766061f995a9ee1] - app.views - API getRoomInfo
+[2024-05-05 22:50:37,667] INFO - [ID: da434f80449b93d8] - app.views - API getMessage
+[2024-05-05 22:50:37,983] INFO - [ID: 780f648937cbcfdd] - app.views - API getRoomInfo
+[2024-05-05 22:50:37,989] INFO - [ID: ba67376e5f82b875] - app.views - API getMessage
+[2024-05-05 22:50:39,514] INFO - [ID: a94ed6b6860baf93] - app.views - API getRoomInfo
+[2024-05-05 22:50:39,518] INFO - [ID: 84d66f108be9b92b] - app.views - API getMessage
+[2024-05-05 22:50:45,250] INFO - [ID: 0771ba8341824922] - app.views - API getMessage
+[2024-05-05 22:50:45,251] INFO - [ID: f87dfcc0b3f6693a] - app.views - API getRoomInfo
+[2024-05-05 22:50:46,003] INFO - [ID: 441be5e2954bf1cd] - app.views - API getRoomInfo
+[2024-05-05 22:50:46,007] INFO - [ID: 25f28bb358d560ee] - app.views - API getMessage
+[2024-05-05 22:51:44,348] INFO - [ID: 1cbbf5a370a25c1d] - app.views - Login Successfully
+[2024-05-05 22:51:45,427] INFO - [ID: a89e7e0f61018c93] - app.views - API getRoomInfo
+[2024-05-05 22:51:45,444] INFO - [ID: bd94d8460e107708] - app.views - API getMessage
+[2024-05-05 22:51:45,956] INFO - [ID: 31cf207348376b77] - app.views - API getRoomInfo
+[2024-05-05 22:51:45,957] INFO - [ID: 40511c24cd26d39c] - app.views - API getMessage
+[2024-05-05 22:51:46,442] INFO - [ID: ecae9ff2453f528d] - app.views - API getRoomInfo
+[2024-05-05 22:51:46,443] INFO - [ID: 1cb0b51a43434da1] - app.views - API getMessage
+[2024-05-05 22:51:46,919] INFO - [ID: 6f09b9b15dee8786] - app.views - API getRoomInfo
+[2024-05-05 22:51:46,920] INFO - [ID: b292cca8b773dc2f] - app.views - API getMessage
+[2024-05-06 08:26:47,575] INFO - [ID: 2725d86511079f60] - django.utils.autoreload - Watching for file changes with StatReloader
+[2024-05-06 08:27:08,190] WARNING - [ID: 30fec58c265996b1] - django.request - Not Found: /main.bf2def28fcfac1f2469f.hot-update.json
+[2024-05-06 08:27:18,787] INFO - [ID: c0dfae95f7b21f6e] - app.views - Login Successfully
+[2024-05-06 08:27:21,499] INFO - [ID: 2873c97375c6ca6b] - app.views - API getMessage
+[2024-05-06 08:27:21,512] INFO - [ID: 99cf2dedce399aaa] - app.views - API getRoomInfo
+[2024-05-06 08:27:21,595] INFO - [ID: e9cc8fe0d00b80d4] - app.views - API getMessage
+[2024-05-06 08:27:21,690] INFO - [ID: 9d78f5cbcad80f7e] - app.views - API getRoomInfo
+[2024-05-06 08:27:22,644] INFO - [ID: 818a1a1dc0a78708] - app.views - API getMessage
+[2024-05-06 08:27:22,650] INFO - [ID: 2afcc53675ff94cc] - app.views - API getRoomInfo
+[2024-05-06 08:27:23,345] INFO - [ID: 97877c8dcd9e4cf2] - app.views - API getMessage
+[2024-05-06 08:27:23,347] INFO - [ID: 1af88be9c4078d00] - app.views - API getRoomInfo
+[2024-05-06 08:27:23,653] INFO - [ID: 3643af23d74baa85] - app.views - API getMessage
+[2024-05-06 08:27:23,667] INFO - [ID: 46c6f60f0a0f36dd] - app.views - API getRoomInfo
+[2024-05-06 08:27:24,128] INFO - [ID: 2bc7768436adf2f2] - app.views - API getMessage
+[2024-05-06 08:27:24,131] INFO - [ID: 31c47dbefcab598d] - app.views - API getRoomInfo
+[2024-05-06 08:27:24,521] INFO - [ID: c3dc9c3800e5cfee] - app.views - API getMessage
+[2024-05-06 08:27:24,527] INFO - [ID: e00f220ee1e39dcb] - app.views - API getRoomInfo
+[2024-05-06 08:27:25,282] INFO - [ID: 293fedae7b7d7249] - app.views - API getRoomInfo
+[2024-05-06 08:27:26,052] INFO - [ID: 0f5ff54a887bd53f] - app.views - API getRoomInfo
+[2024-05-06 08:51:24,984] INFO - [ID: e1fc44657c9a90e8] - app.views - API getMessage
+[2024-05-06 08:51:24,990] INFO - [ID: fc5e25984dcd4dd9] - app.views - API getRoomInfo
+[2024-05-06 08:51:25,883] INFO - [ID: 4ad47701a679b885] - app.views - API getMessage
+[2024-05-06 08:51:25,883] INFO - [ID: 7333c3e06492a1f6] - app.views - API getRoomInfo
+[2024-05-06 08:51:26,476] INFO - [ID: 22bb197aff831c78] - app.views - API getMessage
+[2024-05-06 08:51:26,476] INFO - [ID: b336ceb60c4cea02] - app.views - API getRoomInfo
+[2024-05-06 08:51:28,817] INFO - [ID: 88c95d242cf79d05] - app.views - API searchUser
+[2024-05-06 08:51:36,618] INFO - [ID: 626519db3755a873] - app.views - API userInfo
+[2024-05-06 08:51:39,754] INFO - [ID: ca5f812d6f3c314b] - app.views - API getRoomInfo
+[2024-05-06 08:51:39,777] INFO - [ID: b9e78852556be4bd] - app.views - API getMessage
